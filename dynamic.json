@@ -1,0 +1,44 @@
+{
+  "profile":{
+    "image":"images/simple.jpg",
+    "name":"abdul",
+    "designation":"student",
+    "email_id":"gaffar71436@gmail.com",
+    "phone_no":"***********",
+    "place":"tadipatri"
+  },
+  "Career_objective":{
+    "info":"i like challenges"
+  },
+  "Education_details":
+  [
+    {
+    "course":"b-tech",
+    "passing_year":"2017-2021",
+    "college":"MITS",
+    "percent_gained":"80%"
+  },
+  {
+    "course":"intermediate",
+    "passing_year":"2015-2017",
+    "college":"NRI ACADEMY",
+    "percent_gained":"94%"
+  },
+  {
+    "course":"ssc",
+    "passing_year":"2014-2015",
+    "college":"TARGET E.M SCHOOL",
+    "percent_gained":"9.7"
+  }
+],
+"Skills":[
+  {
+  "name":"web technologies",
+  "info":["html,css,js"]
+},
+{
+  "name":"databaase",
+  "info":["jdbc","firebase","sql","mangoDB"]
+}
+]
+}
